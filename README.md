@@ -15,3 +15,10 @@ define("PASSWORD", "your_clickatell_api_password");
 define("API_ID", "clickatell_api_id_here");
 
 define("PHONE_NO", "the_phone_number_you_want_to_send_to");
+
+# Setup Events 
+Setup the following events:
+* OnBeforeDocFormSave
+* OnManagerLogin
+
+This allows the events to get triggered by the code.
