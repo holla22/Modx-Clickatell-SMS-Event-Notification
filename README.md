@@ -1,5 +1,5 @@
 # Modx Clickatell SMS Event Notification
-This is a Modx events plugin that sends you an sms if someone logs in or creates new resources on your modx installation
+This is a Modx events plugin that sends you an sms if someone logs in or creates new resources on your modx installation. Register a HTTP API with clickatell to get this to work.
 
 # Installation
 Move the folders to this path assets/elements/plugins
